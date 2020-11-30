@@ -5,6 +5,7 @@ This is a House Price Prediction Project. The objective of the project is to per
 #data.csv: dataset file
 
 #housing attributes info: this contains the information of attributes.
+
 #real-estate-price-prediction.ipynb: python code for processing.
 
 #How to access the code on google colab
