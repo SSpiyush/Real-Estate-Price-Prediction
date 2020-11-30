@@ -3,4 +3,4 @@ This is a House Price Prediction Project. The objective of the project is to per
 
 
 > data.csv: dataset file
-> real-estate-price-prediction.ipynb: python code for processing
+> real-estate-price-prediction.ipynb: python code for processing\\\
