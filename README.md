@@ -3,4 +3,12 @@ This is a House Price Prediction Project. The objective of the project is to per
 
 
 > data.csv: dataset file
-> real-estate-price-prediction.ipynb: python code for processing\\\
+> housing attributes info: this contains the information of attributes.
+> real-estate-price-prediction.ipynb: python code for processing.
+
+#How to access the code on google colab
+1) First step is to upload the file(real-estate-price-prediction.ipynb) on google colab.
+2) Than upload the data(data.csv) using following command:
+    
+    from google.colab import files
+    uploaded = files.upload() 
